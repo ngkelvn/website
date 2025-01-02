@@ -12,8 +12,8 @@ function Navbar() {
                 <div className="nav-links">
                     <a href="#about" className="nav-link">About</a>
                     <a href="#projects" className="nav-link">Projects</a>
-                    <a href="#experiences" className="nav-link">Experiences</a>
-                    <a href="https://drive.google.com/file/d/1i9hknt0d2bPmKYwxHqnJXHnh8LjkAO5W/view?usp=drive_link" className="nav-link" target="_blank" rel="noreferrer">
+                    {/* <a href="#experiences" className="nav-link">Experiences</a> */}
+                    <a href="https://drive.google.com/file/d/https://drive.google.com/file/d/1NY1oV_hcPysFYqivVVEccYmhhhzubZ-g/view?usp=sharing/view?usp=drive_link" className="nav-link" target="_blank" rel="noreferrer">
                         Resume
                     </a>
                     <BasicSwitches />
