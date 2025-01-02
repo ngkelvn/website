@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ngkelvn/website/static/css/main.4268321c.css",
-    "main.js": "/ngkelvn/website/static/js/main.535b8bd8.js",
+    "main.js": "/ngkelvn/website/static/js/main.7c3a6e2c.js",
     "static/js/453.d855a71b.chunk.js": "/ngkelvn/website/static/js/453.d855a71b.chunk.js",
     "static/media/csxl.mov": "/ngkelvn/website/static/media/csxl.ad355f4afc1abe07c716.mov",
     "static/media/pong.mov": "/ngkelvn/website/static/media/pong.a0f86ba8be8cc87b643f.mov",
@@ -14,11 +14,11 @@
     "static/media/revicons.woff": "/ngkelvn/website/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/ngkelvn/website/index.html",
     "main.4268321c.css.map": "/ngkelvn/website/static/css/main.4268321c.css.map",
-    "main.535b8bd8.js.map": "/ngkelvn/website/static/js/main.535b8bd8.js.map",
+    "main.7c3a6e2c.js.map": "/ngkelvn/website/static/js/main.7c3a6e2c.js.map",
     "453.d855a71b.chunk.js.map": "/ngkelvn/website/static/js/453.d855a71b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4268321c.css",
-    "static/js/main.535b8bd8.js"
+    "static/js/main.7c3a6e2c.js"
   ]
 }
