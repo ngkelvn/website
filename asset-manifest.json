@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ngkelvn/website/static/css/main.4268321c.css",
+    "main.js": "/ngkelvn/website/static/js/main.535b8bd8.js",
+    "static/js/453.d855a71b.chunk.js": "/ngkelvn/website/static/js/453.d855a71b.chunk.js",
+    "static/media/csxl.mov": "/ngkelvn/website/static/media/csxl.ad355f4afc1abe07c716.mov",
+    "static/media/pong.mov": "/ngkelvn/website/static/media/pong.a0f86ba8be8cc87b643f.mov",
+    "static/media/california.mov": "/ngkelvn/website/static/media/california.d56c9a031d248f80fd34.mov",
+    "static/media/my_fun.mov": "/ngkelvn/website/static/media/my_fun.dd8d33d245847f8bbefe.mov",
+    "static/media/contageon_simulation.mov": "/ngkelvn/website/static/media/contageon_simulation.9fbdf778d9bb14a8f7b9.mov",
+    "static/media/profile_pic.jpg": "/ngkelvn/website/static/media/profile_pic.bb1c35b593ccc720d6e6.jpg",
+    "static/media/revicons.eot": "/ngkelvn/website/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/ngkelvn/website/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/ngkelvn/website/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/ngkelvn/website/index.html",
+    "main.4268321c.css.map": "/ngkelvn/website/static/css/main.4268321c.css.map",
+    "main.535b8bd8.js.map": "/ngkelvn/website/static/js/main.535b8bd8.js.map",
+    "453.d855a71b.chunk.js.map": "/ngkelvn/website/static/js/453.d855a71b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4268321c.css",
+    "static/js/main.535b8bd8.js"
+  ]
+}
