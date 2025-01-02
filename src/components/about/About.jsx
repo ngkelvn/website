@@ -10,11 +10,10 @@ import { message, name } from './message';
 import Typewriter from './TypeWriter';
 
 const socialMediaLinks = {
-    gitHub: 'https://github.com/wisdom-okwen',
-    linkedIn: 'https://www.linkedin.com/in/wisdom-okwen-05b09a184/',
-    youTube: 'https://www.youtube.com/channel/UC2JKlaNuQQKmPVlgxpoVCbA',
-    instagram: 'https://www.instagram.com/owska_joe/',
-    faceBook: 'https://www.facebook.com/profile.php?id=100087329172175'
+    gitHub: 'https://github.com/ngkelvn',
+    linkedIn: 'https://www.linkedin.com/in/kelvin-nana-gyebi-7109541a2/',
+    instagram: 'https://www.instagram.com/kelvn_ng/',
+    faceBook: 'https://www.facebook.com/profile.php?id=61566912476905'
 }
 
 function About() {
@@ -25,7 +24,6 @@ function About() {
                 <div className="socials">
                     <a href={socialMediaLinks.gitHub} target="_blank" rel="noreferrer"><GitHubIcon id="github"/></a> <span className='divider'></span>
                     <a href={socialMediaLinks.linkedIn} target="_blank" rel="noreferrer"><LinkedInIcon id="linkedin"/></a> <span className='divider'></span> 
-                    <a href={socialMediaLinks.youTube} target="_blank" rel="noreferrer"><YouTubeIcon id="youtube"/></a> <span className='divider'></span> 
                     <a href={socialMediaLinks.instagram} target="_blank" rel="noreferrer"><InstagramIcon id="instagram"/></a> <span className='divider'></span>
                     <a href={socialMediaLinks.faceBook} target="_blank" rel="noreferrer"><FacebookIcon id="facebook"/></a> 
                 </div>

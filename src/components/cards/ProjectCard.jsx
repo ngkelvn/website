@@ -36,7 +36,7 @@ export default function ProjectCard(props) {
       className='pr-card'
       sx={{ 
         width: 350, 
-        height: 500, 
+        height: 250, 
         boxShadow: 6, 
         margin: 2, 
         borderRadius: '8px', 
@@ -49,7 +49,7 @@ export default function ProjectCard(props) {
       onMouseOver={handleMouseOver}
       onMouseLeave={handleMouseLeave}
     >
-      <CardMedia
+      {/* <CardMedia
         id='card-media'
         sx={{ width: '100%', height: 260, pointerEvents: 'none' }}
         component='video'
@@ -60,7 +60,7 @@ export default function ProjectCard(props) {
         muted
         playsInline
         aria-label={props.title}
-      />
+      /> */}
       <div className="pin-section">
         <div className="pin">
           <PushPinOutlinedIcon id={`${props.id}`} sx={{ display: 'none', color: 'blue' }} />
