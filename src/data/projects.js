@@ -14,15 +14,7 @@ const projects = [
         deployed: false,
         deployment_type: deployment_types.youtube
     },
-    {
-        id: 2,
-        title: "UNC CSXL Website",
-        url: "https://final-team-c2-comp590-140-24sp-evanesce.apps.unc.edu/announcements",
-        description: "News page that helps 800+ students in the department get easy access to information about events/conferences/activities.",
-        built_with: ['Angular, ', 'Python, ', 'FastAPI, ', 'SQLAlchemy'],
-        deployed: true,
-        deployment_type: deployment_types.website
-    },
+    
     {
         id: 3,
         title: "Contageon Simulation",
